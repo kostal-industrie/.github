@@ -1,5 +1,3 @@
-# Welcome to Kostal Industrie Elektrik - Photovoltaics public github page.
+## KOSTAL Solar Electric, founded in 2006, is one of the leading suppliers of power electronics for private and commercial photovoltaic systems.
 
-For more information about us visit:
-
- https://www.kostal-industrie-elektrik.com/de-de/business-units/photovoltaics/
+In addition to innovative inverters, KOSTAL Solar Electric's product portfolio also includes its own KOSTAL Wallbox, energy meters and the relevant monitoring software. Here you will find an overview of all of the company's news, milestones, awards and much more.
