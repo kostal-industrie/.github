@@ -1,3 +1,18 @@
-## KOSTAL Solar Electric, founded in 2006, is one of the leading suppliers of power electronics for private and commercial photovoltaic systems.
+## KOSTAL Solar Electric
 
-In addition to innovative inverters, KOSTAL Solar Electric's product portfolio also includes its own KOSTAL Wallbox, energy meters and the relevant monitoring software. Here you will find an overview of all of the company's news, milestones, awards and much more.
+Founded in 2006, is one of the leading suppliers of power electronics for private and commercial photovoltaic systems.
+In addition to innovative inverters, KOSTAL Solar Electric's product portfolio also includes its own KOSTAL Wallbox, energy meters and the relevant monitoring software.
+
+As the inverter user interface is provided by an embedded linux system (based on yocto project), this page provides the source code required by GPL v3.
+You can build the open source parts of this user interface as described in the "build_environment" repo.
+The Software parts that are adapted for Kostal inverters are licensed under GPL v3.
+
+COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH
+
+### Disclaimer of Warranty.
+
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+### Limitation of Liability.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
