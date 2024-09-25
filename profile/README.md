@@ -7,7 +7,8 @@ As the inverter user interface is provided by an embedded linux system (based on
 You can build the open source parts of this user interface as described in the "build_environment" repo.
 The Software parts that are adapted for Kostal inverters are licensed under GPL v3.
 
-COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH
+
+**COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH**
 
 ### Disclaimer of Warranty.
 
