@@ -2,10 +2,10 @@
 
 KOSTAL Solar Electric was founded in 2006 as a separate branch of KOSTAL Industrie Elektrik.
 KOSTAL is one of the leading suppliers of innovative solar, hybrid and battery inverters - for private and commercial systems - made in Germany. The KOSTAL Energy Meter and Smart Energy Meter as well as the KOSTAL Wallbox complete the latest product portfolio. KOSTAL also offers free monitoring software in the form of the Solar Portal and the Solar App.
-KOSTAL products provide customers all central instruments for an intelligent generation, storage, control and use of solar power. KOSTAL inverters offer high compatibility, flexible expandability and top quality. KOSTAL inverters can also be used to operate and control heat pumps, air conditioning units, charging stations or heating elements.
+KOSTAL products provide customers all central instruments for an intelligent generation, storage, control and use of solar power. KOSTAL inverters offer high compatibility, flexible expandability and top quality.
 
 
-**COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH**
+**COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH & Co. KG**
 
 As the inverter user interface is provided by an embedded linux system (based on yocto project), this page provides the source code required by GPL v3.
 You can build the open source parts of this user interface as described in the "build_environment" repo.
