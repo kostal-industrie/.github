@@ -5,7 +5,7 @@ KOSTAL is one of the leading suppliers of innovative solar, hybrid and battery i
 KOSTAL products provide customers all central instruments for an intelligent generation, storage, control and use of solar power. KOSTAL inverters offer high compatibility, flexible expandability and top quality.
 
 
-**COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH & Co. KG**
+**COPYRIGHT (c) 2024 KOSTAL Solar Electric GmbH**
 
 As the inverter user interface is provided by an embedded linux system (based on yocto project), this page provides the source code required by GPL v3.
 You can build the open source parts of this user interface as described in the "build_environment" repo.
